@@ -192,6 +192,11 @@ h6{
 	position:relative;
 }
 
+.center-item {
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+}
 .list-style-one li{
 	position:relative;	color: white;
 	font-size:16px;
